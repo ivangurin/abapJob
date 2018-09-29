@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_JOB</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Ôîíîâîå çàäàíèå</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_JOB</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_JOB</CLSNAME>
+     <CMPNAME>CREATE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ñîçäàíèå ôîíîâîãî çàäàíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_JOB</CLSNAME>
+     <CMPNAME>ID</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Èäåíòèôèêàöèîííûé íîìåð çàäàíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_JOB</CLSNAME>
+     <CMPNAME>NAME</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Èìÿ ôîíîâîãî çàäàíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_JOB</CLSNAME>
+     <CMPNAME>START</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Çàïóñê ôîíîâîãî çàäàíèÿ</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_JOB</CLSNAME>
+     <CMPNAME>START_TIME</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ìåòêà UTC-âðåìåíè â êðàòêîé ôîðìå (ÃÃÃÃÌÌÄÄ÷÷ììññ)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
